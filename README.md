@@ -1,4 +1,7 @@
-# Fr1ezy-ms-basic_XSS
+# ms-basic_XSS
+
+Version
+Maven: net. microsoft: ms basic<=2.1.13.4
 
 There is an XSS vulnerability in the search function
 
